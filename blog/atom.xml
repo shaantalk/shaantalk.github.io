@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shaantalk.github.io/blog</id>
+    <title>Santanu Panda Blog</title>
+    <updated>2024-01-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shaantalk.github.io/blog"/>
+    <subtitle>Santanu Panda Blog</subtitle>
+    <icon>https://shaantalk.github.io/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Work In Progress]]></title>
+        <id>https://shaantalk.github.io/blog/WIP</id>
+        <link href="https://shaantalk.github.io/blog/WIP"/>
+        <updated>2024-01-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Work in progress]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Work In Progress" src="https://shaantalk.github.io/assets/images/wip-a0775cb2abc6f8f855dfc2da4adcea4f.svg" width="1178" height="724" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Santanu Panda</name>
+            <uri>https://github.com/shaantalk</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="WIP" term="WIP"/>
+    </entry>
+</feed>
