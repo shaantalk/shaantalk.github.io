@@ -16,7 +16,7 @@ const config = {
   url: "https://shaantalk.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/portfolio_v4/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
