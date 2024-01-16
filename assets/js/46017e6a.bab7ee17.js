@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksantanu_dev=self.webpackChunksantanu_dev||[]).push([[5318],{9021:a=>{a.exports=JSON.parse('{"label":"WIP","permalink":"/blog/tags/wip","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
