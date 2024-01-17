@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksantanu_dev=self.webpackChunksantanu_dev||[]).push([[4457],{5761:e=>{e.exports=JSON.parse('{"permalink":"/portfolio_v4/blog/tags/closure","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

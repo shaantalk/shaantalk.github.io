@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksantanu_dev=self.webpackChunksantanu_dev||[]).push([[3981],{736:s=>{s.exports=JSON.parse('{"label":"closure","permalink":"/portfolio_v4/blog/tags/closure","allTagsPath":"/portfolio_v4/blog/tags","count":1,"unlisted":false}')}}]);
