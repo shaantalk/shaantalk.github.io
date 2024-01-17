@@ -163,6 +163,16 @@ const config = {
         // disableSwitch: false,
         // respectPrefersColorScheme: false,
       },
+
+      // Uncomment this if you want to add some announcements
+      // announcementBar: {
+      //   id: "connection_req",
+      //   content:
+      //     'Please connect with me on <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/shaantalk/">Linkedin</a>',
+      //   backgroundColor: "#fafbfc",
+      //   textColor: "#091E42",
+      //   isCloseable: false,
+      // },
     }),
   stylesheets: ["https://fonts.googleapis.com/icon?family=Material+Icons"],
   themes: [
