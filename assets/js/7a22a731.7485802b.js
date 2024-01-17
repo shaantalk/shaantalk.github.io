@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksantanu_dev=self.webpackChunksantanu_dev||[]).push([[8189],{1196:a=>{a.exports=JSON.parse('{"label":"forEach","permalink":"/blog/tags/for-each","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

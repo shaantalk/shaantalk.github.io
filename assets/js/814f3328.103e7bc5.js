@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksantanu_dev=self.webpackChunksantanu_dev||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Unveiling the Secrets of Array.forEach() in JavaScript","permalink":"/blog/JavaScript Array ForEach","unlisted":false},{"title":"JavaScript Closure","permalink":"/blog/JavaScript Closure","unlisted":false}]}')}}]);
