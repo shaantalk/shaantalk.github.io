@@ -157,6 +157,12 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      // Add the defaultMode property to set dark mode as default
+      colorMode: {
+        defaultMode: "dark",
+        // disableSwitch: false,
+        // respectPrefersColorScheme: false,
+      },
     }),
   stylesheets: ["https://fonts.googleapis.com/icon?family=Material+Icons"],
   themes: [
