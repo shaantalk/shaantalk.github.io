@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "Santanu Panda",
   tagline: "Frontend Engineer at Cisco",
-  favicon: "img/logo.png",
+  favicon: "img/Logo.png",
 
   // Set the production url of your site here
   url: "https://shaantalk.github.io",
@@ -80,7 +80,7 @@ const config = {
         title: "Santanu Panda",
         logo: {
           alt: "Home Logo",
-          src: "img/logo.png",
+          src: "img/Logo.png",
         },
         items: [
           {
