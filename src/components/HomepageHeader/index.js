@@ -66,7 +66,7 @@ export default function HomepageHeader() {
           >
             <img
               alt={"santanu panda"}
-              src={useBaseUrl("/img/santanu.jpg")}
+              src={useBaseUrl("/img/santanu2.jpg")}
               style={{
                 borderRadius: "50%",
                 maxWidth: "225px",
