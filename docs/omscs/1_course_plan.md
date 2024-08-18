@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+tags:
+  - Course plan
 keywords:
   - OMSCS
   - Gatech
@@ -9,6 +11,8 @@ description: Courses that I plan to take
 last_update:
   author: Santanu Panda
 ---
+
+# Course Plan
 
 | Course | Rating | Difficulty | Workload | Reviews | Foundational? | Rating:Difficulty | Rating:Workload | Code(s) |
 |--------|--------|------------|----------|---------|---------------|-------------------|-----------------|---------|
