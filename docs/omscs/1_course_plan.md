@@ -16,7 +16,7 @@ last_update:
 
 ### Fall 2024 (already decided)
 - **CS-6210: Advanced Operating Systems**
-  - *Reason*: I chose this as my starting point because it’s a foundational course with a high difficulty level and workload. It's essential for building a strong base in systems.
+  - *Reason*: After 6 years of not studying, this should be good. Also this picks up where B.Tech finishes so "continuity"
 
 | Code    | Course Name | Gatech Link | Reviews Link | Rating | Difficulty | Workload | Reviews | Foundational? | Rating:Difficulty | Rating:Workload |
 |---------|-------------|-------------|--------------|--------|------------|----------|---------|---------------|-------------------|-----------------|
@@ -24,7 +24,7 @@ last_update:
 
 ### Spring 2025
 - **CS-6515: Introduction to Graduate Algorithms**
-  - *Reason*: This is another foundational course that's known for its challenge. It’ll complement what I learned in Advanced Operating Systems, setting me up well for future courses.
+  - *Reason*: It’ll complement what I learned in Advanced Operating Systems, setting me up well for future courses. DSA and all the foundations covered.
 
 | Code    | Course Name | Gatech Link | Reviews Link | Rating | Difficulty | Workload | Reviews | Foundational? | Rating:Difficulty | Rating:Workload |
 |---------|-------------|-------------|--------------|--------|------------|----------|---------|---------------|-------------------|-----------------|
@@ -32,7 +32,7 @@ last_update:
 
 ### Summer 2025
 - **CS-7646: Machine Learning for Trading**
-  - *Reason*: With a moderate difficulty and workload, this course is perfect for the shorter summer term. Plus, it introduces practical applications of machine learning, which is something I'm keen to explore.
+  - *Reason*: Moderate difficulty and workload, this course is perfect for the shorter summer term. It introduces practical applications of machine learning so it will make me excited.
 
 | Code    | Course Name | Gatech Link | Reviews Link | Rating | Difficulty | Workload | Reviews | Foundational? | Rating:Difficulty | Rating:Workload |
 |---------|-------------|-------------|--------------|--------|------------|----------|---------|---------------|-------------------|-----------------|
@@ -40,7 +40,7 @@ last_update:
 
 ### Fall 2025
 - **CS-6601: Artificial Intelligence**
-  - *Reason*: AI is a critical area, and this course is highly rated. I’m looking forward to diving deep into AI concepts after covering the basics in the previous terms.
+  - *Reason*: Diving deep into AI concepts.
 
 | Code    | Course Name | Gatech Link | Reviews Link | Rating | Difficulty | Workload | Reviews | Foundational? | Rating:Difficulty | Rating:Workload |
 |---------|-------------|-------------|--------------|--------|------------|----------|---------|---------------|-------------------|-----------------|
@@ -48,7 +48,7 @@ last_update:
 
 ### Spring 2026
 - **CS-7641: Machine Learning**
-  - *Reason*: This will deepen my understanding of machine learning, building on what I learned in the AI course. It’s foundational, so it makes sense to take it before more specialized ML courses.
+  - *Reason*: Deepen my understanding of machine learning. Things like supervised, unsupervided and Reinforcement learning.
 
 | Code    | Course Name | Gatech Link | Reviews Link | Rating | Difficulty | Workload | Reviews | Foundational? | Rating:Difficulty | Rating:Workload |
 |---------|-------------|-------------|--------------|--------|------------|----------|---------|---------------|-------------------|-----------------|
@@ -56,7 +56,7 @@ last_update:
 
 ### Summer 2026
 - **CS-7638: Artificial Intelligence Techniques for Robotics**
-  - *Reason*: I’m excited about applying AI to robotics, and this course offers a hands-on approach. The workload is moderate, which fits well with the summer term.
+  - *Reason*: I was into Robotics in B.Tech also. Want to know how AI is used here.
 
 | Code    | Course Name | Gatech Link | Reviews Link | Rating | Difficulty | Workload | Reviews | Foundational? | Rating:Difficulty | Rating:Workload |
 |---------|-------------|-------------|--------------|--------|------------|----------|---------|---------------|-------------------|-----------------|
@@ -64,7 +64,7 @@ last_update:
 
 ### Fall 2026
 - **CS-7650: Natural Language Processing**
-  - *Reason*: NLP is a growing field, and I want to explore it more. The workload and difficulty are manageable, which should allow me to dig deeper into the subject.
+  - *Reason*: Buzzword. Lets see what it is.
 
 | Code    | Course Name | Gatech Link | Reviews Link | Rating | Difficulty | Workload | Reviews | Foundational? | Rating:Difficulty | Rating:Workload |
 |---------|-------------|-------------|--------------|--------|------------|----------|---------|---------------|-------------------|-----------------|
@@ -88,7 +88,7 @@ last_update:
 
 ### Fall 2027
 - **CS-6603: AI, Ethics, and Society**
-  - *Reason*: I want to finish on a reflective note, considering the ethical implications of AI. This course has the lowest difficulty and workload, making it a thoughtful way to conclude my studies.
+  - *Reason*: Its just a easy thing to do in the to complete my degree. I will probably club this with some other subject in any of the previous terms
 
 | Code    | Course Name | Gatech Link | Reviews Link | Rating | Difficulty | Workload | Reviews | Foundational? | Rating:Difficulty | Rating:Workload |
 |---------|-------------|-------------|--------------|--------|------------|----------|---------|---------------|-------------------|-----------------|
