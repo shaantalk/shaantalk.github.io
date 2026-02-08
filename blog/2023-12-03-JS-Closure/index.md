@@ -11,6 +11,7 @@ description: JavaScript Closure
 ## What is a closure ?
 
 JavaScript closures are functions that can access values outside of their own curly braces.
+<!-- truncate -->
 
 In order to call a function in your code, the JavaScript interpreter needs to know about the function itself and any other data from the surrounding environment that it depends on. Everything needs to be neatly closed up into a box before it can be fed into the machine.
 

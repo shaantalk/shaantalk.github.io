@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Santanu Panda",
-  tagline: "Frontend Engineer at Cisco",
+  tagline: "Software Engineer at Google",
   favicon: "img/Logo.png",
 
   // Set the production url of your site here
@@ -21,12 +21,14 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "shaantalk", // Usually your GitHub org/user name.
-  projectName: "www.santanu.dev", // Usually your repo name.
+  projectName: "shaantalk.github.io", // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: "ignore", //"throw",
-  onBrokenMarkdownLinks: "warn",
+  markdown: {
+    mermaid: true,
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you

@@ -14,6 +14,8 @@ description: JavaScript Array ForEach
 
 JavaScript, being a versatile language, provides essential array manipulation methods for efficient programming. Among these, forEach() stands out, allowing developers to iterate over each element in an array seamlessly. In this blog post, we'll explore the intricacies of forEach(), its usage with examples, delve into the process of creating a polyfill for educational insights, and address considerations like error handling.
 
+<!-- truncate -->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S0mKEFUlCls?si=TCjy7_gNrthQ0TNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Understanding Array.forEach()

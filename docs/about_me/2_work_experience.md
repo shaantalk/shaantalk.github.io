@@ -3,6 +3,7 @@ sidebar_position: 2
 tags:
   - work experience
 keywords:
+  - Google
   - Cisco
   - Citrix
   - Lowe's
@@ -14,13 +15,28 @@ last_update:
 
 # Work Experience
 
+<div class="img-small" >![Google](./img/GoogleLogo.svg)</div>
+
+## Google
+
+**Software Engineer**  
+_Bangalore, India_  
+_June 2025 – Present_
+
+- **Ads Account Suspension Automation**: Led the end-to-end delivery of automation for Merchant Center, enabling ~28K annualized case automations and improving operational efficiency.
+- **Landing Page Diagnostics**: Designed and architected the "Landing Page Not Crawlable" (LPNC) feature, implementing scalable asynchronous processing and integrating DNS/HTTP health checks.
+- **System Migration**: Spearheaded the migration of landing page execution processors from Harpoon to Trawler, managing the transition via feature flags and logging to ensure production stability.
+- **Consult & Manual Review Flows**: Developed a "Requiring Manual Review" workflow and backend logic to handle policy issues not covered by existing automation.
+- **Technical Leadership**: Authored detailed design documents for complex reopen logic and decision-making refactors, and led the refactor of commerce callout logic to centralize business logic on the backend.
+- **Code Quality & Mentorship**: Initiated readability certification processes in Kotlin, Java, and Python.
+
 <div class="img-small" >![Cisco](./img/CiscoLogo.svg)</div>
 
 ## Cisco
 
 **Cloud Engineer**  
 _Bangalore, India_  
-_18th January 2023 - Present_
+_18th January 2023 - June 2025_
 
 - Played a pivotal role in enhancing the [Cisco Secure Workload](https://www.cisco.com/site/in/en/products/security/secure-workload/index.html) platform by implementing features for real-time telemetry data display.
 

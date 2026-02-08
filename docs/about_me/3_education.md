@@ -19,3 +19,10 @@ last_update:
 - DGPA : 8.13 / 10
 - University: Maulana Abul Kalam Azad University of Technology
 - Actively involved in activities of Robotics club and App development training
+
+## Georgia Institute of Technology
+
+- Online 2024 – Present
+- Master of Science in Computer Science (OMSCS)
+- Specialization in Machine Learning
+

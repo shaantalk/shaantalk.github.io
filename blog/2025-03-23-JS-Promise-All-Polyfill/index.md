@@ -14,6 +14,8 @@ description: JavaScript Promise.All Polyfill
 ## Overview
 `Promise.all` is a built-in JavaScript function that takes an array of Promises and resolves when all of them are fulfilled. If any Promise is rejected, it immediately rejects. Here, we implement our own version, `Promise.myAll`.
 
+<!-- truncate -->
+
 ## Implementation
 ```javascript
 Promise.myAll = (promises) => {

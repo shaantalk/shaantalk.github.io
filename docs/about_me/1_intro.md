@@ -13,11 +13,11 @@ last_update:
 
 # Intro
 
-Welcome to my tech playground, where lines of code dance to create enchanting experiences! I'm a Software Engineer stationed in Bangalore, channeling my frontend prowess to redefine digital landscapes at Cisco.
+Welcome to my tech playground, where lines of code dance to create enchanting experiences! I'm a Software Engineer stationed in Bangalore, channeling my engineering prowess to redefine digital landscapes at Google.
+ 
+Fueling my journey is a solid foundation from Techno India College Of Technology (Kolkata), where I earned my stripes in Computer Science with a stellar Bachelor of Technology degree. Graduating in 2018, I've been on a relentless quest to marry my academic wisdom with real-world innovation. Recently, I've also embarked on a Master of Science in Computer Science (OMSCS) from Georgia Institute of Technology.
 
-Fueling my journey is a solid foundation from Techno India College Of Technology (Kolkata), where I earned my stripes in Computer Science with a stellar Bachelor of Technology degree. Graduating in 2018 with a Grade of 8.13, I've been on a relentless quest to marry my academic wisdom with real-world innovation.
-
-Fast forward to the present, and you'll find me at Cisco, infusing life into the Secure Workload platform. Real-time telemetry data? Check. Reporting dashboards that are as sleek as they are informative? Double-check. And did I mention the ongoing magic of integrating Kenna for security that's not just robust but visually spectacular?
+Fast forward to the present, and you'll find me at Google, driving impactful projects end-to-end across Ads, Cloud, and Security domains. From automating Ads account suspensions to designing "Landing Page Not Crawlable" features, I thrive on building scalable solutions that serve millions.
 
 But that's not all! My stint at CSG (Citrix) was like curating a digital art gallery. Leading frontend development for the Service Graph product, I turned interfaces into visual masterpieces that users won't forget.
 

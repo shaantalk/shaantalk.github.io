@@ -14,6 +14,8 @@ description: JavaScript Synchronous setTimeout
 ## Overview
 In JavaScript, `setTimeout` is an asynchronous function, meaning it does not block the execution of subsequent code. However, you can achieve a synchronous-like delay using Promises and the `async/await` pattern.
 
+<!-- truncate -->
+
 ## Implementation
 You can create a `sleep` function that returns a Promise, which resolves after the specified timeout:
 

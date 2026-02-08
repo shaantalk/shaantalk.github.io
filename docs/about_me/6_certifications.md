@@ -14,7 +14,6 @@ last_update:
 
 ### EC Council - Certified Ethical Hacker
 
-- Expiry In: 2023
 - Certification Number: ECC5701369824
 
 ### Apollo - Graph Developer - Associate

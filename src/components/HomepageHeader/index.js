@@ -80,7 +80,7 @@ export default function HomepageHeader() {
             xmlns="http://www.w3.org/2000/svg"
             version="1.1"
             className={styles.svgAnimated}
-            // onClick={() => setActive(!active)}
+          // onClick={() => setActive(!active)}
           >
             <animated.path
               transform="translate(414.756822946785 313.7476382623813)"
@@ -105,14 +105,13 @@ export default function HomepageHeader() {
           >
             <h1 className="hero__title">{siteConfig.title}</h1>
 
-            <h3>Frontend engineer at Cisco</h3>
+            <h3>Software Engineer at Google</h3>
 
             <p>
-              Experienced Software Engineer with a history of driving
-              transformative projects at Lowe's, Citrix and Cisco. Proven
-              expertise in real-time telemetry displays and reporting
-              dashboards. Strong leadership and proficiency in Typescript,
-              Javascript, React, and Redux.
+              Software Engineer at Google with over 7.5 years of experience building scalable
+              web and automation solutions across Ads, Cloud, and Security domains.
+              Skilled in JavaScript, TypeScript, React, and Node.js, with deep experience in
+              system integration and UI optimization.
             </p>
 
             <Grid

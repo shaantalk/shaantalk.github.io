@@ -14,25 +14,30 @@ last_update:
 
 ## Programming languages
 
-- Python
 - JavaScript
-- Ruby
+- TypeScript
+- Java
+- Kotlin
+- Python
 
 ## Frontend Technologies
 
 - ReactJS
 - Redux
-- Axios
-- MaterialUI
-- HTML
-- CSS
+- HTML5
+- CSS3
+- SASS
+- Material UI
 - Bootstrap
+- Webpack
 
 ## Backend
 
-- ExpressJS
-- NodeJS
-- Ruby on Rails
+- Node.js
+- Express.js
+- GraphQL
+- gRPC
+- RESTful APIs
 
 ## Database
 
@@ -41,10 +46,12 @@ last_update:
 
 ## Testing
 
-- Postman
+- React Testing Library
 - Jest
 - Cypress
-- React Testing Library
+- Mocha
+- Enzyme
+- TDD & BDD
 
 ## Software
 

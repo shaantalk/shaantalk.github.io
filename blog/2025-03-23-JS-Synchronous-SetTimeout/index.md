@@ -12,6 +12,8 @@ description: JavaScript Object Modifications
 
 In JavaScript, objects are mutable by default, meaning properties can be added, modified, or deleted. However, there are ways to control an object's mutability using `Object.preventExtensions`, `Object.seal`, and `Object.freeze`. These methods help in different levels of restricting modifications to objects.
 
+<!-- truncate -->
+
 ## Comparison Table
 
 | Method                     | Prevent Adding Properties | Prevent Deleting Properties | Prevent Modifying Properties |
