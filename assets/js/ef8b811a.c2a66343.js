@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksantanu_dev=globalThis.webpackChunksantanu_dev||[]).push([[8947],{6600(a){a.exports=JSON.parse('{"authors":[{"name":"Santanu Panda","title":"Cloud Engineer @ Cisco","url":"https://github.com/shaantalk","imageURL":"img/santanu.jpg","key":"shaantalk","page":null,"count":5}]}')}}]);
