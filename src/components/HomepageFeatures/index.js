@@ -6,7 +6,7 @@ import Link from "@docusaurus/Link";
 const FeatureList = [
   {
     title: "My Work",
-    link: "docs/about_me",
+    link: "docs/about_me/intro",
     Svg: require("@site/static/img/undraw_science_re_mnnr.svg").default,
     description: (
       <>

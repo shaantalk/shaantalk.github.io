@@ -25,9 +25,20 @@ const config = {
   trailingSlash: false,
   deploymentBranch: "gh-pages",
 
-  onBrokenLinks: "ignore", //"throw",
+  onBrokenLinks: "throw",
   markdown: {
     mermaid: true,
+  },
+
+  future: {
+    experimental_faster: {
+      swcJsLoader: true,
+      swcJsMinimizer: true,
+      swcHtmlMinimizer: true,
+      lightningCssMinimizer: true,
+      rspackBundler: true,
+      mdxCrossCompilerCache: true,
+    },
   },
 
   // Even if you don't use internationalization, you can use this field to set
