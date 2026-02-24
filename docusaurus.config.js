@@ -109,12 +109,12 @@ const config = {
           //   className: "header--github-link",
           //   "aria-label": "GitHub repository",
           // },
-          // {
-          //   className: "navbar__youtube navbar__icon",
-          //   "aria-label": "YouTube channel",
-          //   position: "right",
-          //   href: "https://www.youtube.com/@shaantalk",
-          // },
+          {
+            className: "navbar__youtube navbar__icon",
+            "aria-label": "YouTube channel",
+            position: "right",
+            href: "https://www.youtube.com/@project_santanu",
+          },
         ],
       },
       footer: {
@@ -138,7 +138,7 @@ const config = {
               },
               {
                 label: "YouTube",
-                href: "https://www.youtube.com/@shaantalk",
+                href: "https://www.youtube.com/@project_santanu",
               },
               {
                 label: "Instagram",
