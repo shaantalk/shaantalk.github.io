@@ -1,8 +1,7 @@
 import React from 'react';
-import { Box, Typography } from '@mui/material';
-import { useTrail, animated, config } from '@react-spring/web';
+import { Box } from '@mui/material';
 import Heading from "@theme/Heading";
-import Link from "@docusaurus/Link";
+import Timeline from "@site/src/components/Timeline";
 import styles from './styles.module.css';
 
 const pastWebsites = [
@@ -30,53 +29,16 @@ const pastWebsites = [
 ];
 
 export default function PastVersions() {
-    const trail = useTrail(pastWebsites.length, {
-        from: { opacity: 0, x: -20 },
-        to: { opacity: 1, x: 0 },
-        config: config.gentle,
-        delay: 300,
-    });
-
     return (
         <Box className={styles.timelineContainer}>
             <div className="text--center padding-bottom--xl">
                 <Heading as="h2" className={styles.sectionTitle}>Journey Over Time</Heading>
                 <p className={styles.sectionSubtitle}>
-                    Trace the evolution of my digital presence from its inception to today
+                    See how my digital presence has evolved through the years
                 </p>
             </div>
 
-            <div className={styles.timeline}>
-                {trail.map((style, index) => {
-                    const site = pastWebsites[index];
-                    return (
-                        <animated.div key={index} style={style} className={styles.timelineItem}>
-                            <div className={styles.timelineMarker}>
-                                <div className={styles.markerDot}></div>
-                            </div>
-
-                            <div className={styles.timelineContent}>
-                                <div className={styles.timelineBadge}>
-                                    {site.milestone}
-                                </div>
-                                <div className={styles.timelineHeader}>
-                                    <span className={styles.timelineYear}>{site.year}</span>
-                                    <Heading as="h3" className={styles.timelineTitle}>{site.title}</Heading>
-                                </div>
-
-                                <p className={styles.timelineDescription}>
-                                    {site.description}
-                                </p>
-
-                                <Link to={site.url} className={styles.timelineLink} target="_blank">
-                                    Visit Version <span className={styles.linkArrow}>→</span>
-                                </Link>
-                            </div>
-
-                        </animated.div>
-                    );
-                })}
-            </div>
+            <Timeline items={pastWebsites} />
         </Box>
     );
 }
