@@ -1,11 +1,11 @@
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
-import PastVersions from "@site/src/components/PastVersions";
+import HomepageFeatures from "@site/src/components/Homepage/Features";
+import PastVersions from "@site/src/components/Homepage/PastVersions";
 
 import { Container, Box } from "@mui/material";
 
-import HomepageHeader from "@site/src/components/HomepageHeader";
+import HomepageHeader from "@site/src/components/Homepage/Header";
 import Grid from "@mui/material/Grid";
 
 import styles from "./styles.module.css";

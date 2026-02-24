@@ -1,7 +1,8 @@
 import React from 'react';
 import { Box } from '@mui/material';
 import Heading from "@theme/Heading";
-import Timeline from "@site/src/components/Timeline";
+import Timeline from "@site/src/components/Common/Timeline";
+
 import styles from './styles.module.css';
 
 const pastWebsites = [
