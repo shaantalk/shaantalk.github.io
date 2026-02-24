@@ -1,8 +1,10 @@
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import PastVersions from "@site/src/components/PastVersions";
 
-import { Container } from "@mui/material";
+import { Container, Box } from "@mui/material";
+
 import HomepageHeader from "@site/src/components/HomepageHeader";
 import Grid from "@mui/material/Grid";
 
@@ -58,7 +60,9 @@ export default function Home() {
         >
           <HomepageFeatures />
         </Grid>
+        <PastVersions />
       </Container>
+
 
       <div className={styles.bottomShape}>
         <svg
