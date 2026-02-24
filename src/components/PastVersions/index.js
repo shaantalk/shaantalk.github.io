@@ -56,6 +56,9 @@ export default function PastVersions() {
                             </div>
 
                             <div className={styles.timelineContent}>
+                                <div className={styles.timelineBadge}>
+                                    {site.milestone}
+                                </div>
                                 <div className={styles.timelineHeader}>
                                     <span className={styles.timelineYear}>{site.year}</span>
                                     <Heading as="h3" className={styles.timelineTitle}>{site.title}</Heading>
@@ -68,11 +71,8 @@ export default function PastVersions() {
                                 <Link to={site.url} className={styles.timelineLink} target="_blank">
                                     Visit Version <span className={styles.linkArrow}>→</span>
                                 </Link>
-
-                                <div className={styles.timelineBadge}>
-                                    {site.milestone}
-                                </div>
                             </div>
+
                         </animated.div>
                     );
                 })}

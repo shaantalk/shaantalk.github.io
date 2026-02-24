@@ -151,8 +151,8 @@
 
 .timelineBadge {
     position: absolute;
-    top: 2rem;
-    right: 2rem;
+    top: 1.5rem;
+    right: 1.5rem;
     font-size: 0.75rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -161,6 +161,7 @@
     padding: 4px 12px;
     border-radius: 100px;
     border: 1px solid rgba(169, 130, 225, 0.2);
+    z-index: 5;
 }
 
 /* Light Mode Overrides */
@@ -218,6 +219,17 @@
     .timelineItem:nth-child(even) .timelineHeader {
         align-items: flex-start;
     }
+
+    /* Adjust badge positioning to avoid overlap */
+    .timelineItem:nth-child(odd) .timelineBadge {
+        left: 1.5rem;
+        right: auto;
+    }
+
+    .timelineItem:nth-child(even) .timelineBadge {
+        right: 1.5rem;
+        left: auto;
+    }
 }
 
 @media (max-width: 767px) {
@@ -229,9 +241,10 @@
         padding: 1.5rem;
     }
 
+    /* Ensure badge is at the top right on mobile */
     .timelineBadge {
-        position: static;
-        display: inline-block;
-        margin-top: 1rem;
+        top: 1rem;
+        right: 1rem;
+        left: auto;
     }
 }
