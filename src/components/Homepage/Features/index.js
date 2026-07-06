@@ -12,8 +12,7 @@ const FeatureList = [
       <>
         <div>
           <p>
-            Crafted code for Lowe's, flexed my skills at Citrix (Cloud Software
-            Group), and currently weaving web wonders at Cisco.
+            Crafted code for Lowe's, Citrix (Cloud Software Group), Cisco, and currently weaving web wonders at Google.
           </p>
         </div>
 

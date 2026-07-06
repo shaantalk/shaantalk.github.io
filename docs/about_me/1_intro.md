@@ -2,6 +2,7 @@
 sidebar_position: 1
 keywords:
   - Techno
+  - Google
   - Cisco
   - Intro
   - Kolkata
@@ -18,6 +19,8 @@ Welcome to my tech playground, where lines of code dance to create enchanting ex
 Fueling my journey is a solid foundation from Techno India College Of Technology (Kolkata), where I earned my stripes in Computer Science with a stellar Bachelor of Technology degree. Graduating in 2018, I've been on a relentless quest to marry my academic wisdom with real-world innovation. Recently, I've also embarked on a Master of Science in Computer Science (OMSCS) from Georgia Institute of Technology.
 
 Fast forward to the present, and you'll find me at Google, driving impactful projects end-to-end across Ads, Cloud, and Security domains. From automating Ads account suspensions to designing "Landing Page Not Crawlable" features, I thrive on building scalable solutions that serve millions.
+
+Before Google, I spent an enriching chapter at Cisco as a Cloud Engineer, where I helped enhance the Cisco Secure Workload platform. I drove key integrations (like Kenna vulnerability management) and developed high-impact reporting and dashboard features to streamline automation and risk mitigation.
 
 But that's not all! My stint at CSG (Citrix) was like curating a digital art gallery. Leading frontend development for the Service Graph product, I turned interfaces into visual masterpieces that users won't forget.
 
