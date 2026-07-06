@@ -28,7 +28,7 @@ const FeatureList = [
   },
   {
     title: "YouTube",
-    link: "https://www.youtube.com/@shaantalk",
+    link: "https://www.youtube.com/@project_santanu",
     Svg: require("@site/static/img/undraw_augmented_reality_re_f0qd.svg")
       .default,
     description: (

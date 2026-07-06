@@ -133,7 +133,7 @@ export default function HomepageHeader() {
               <Grid item>
                 <Link
                   className="button"
-                  to="https://www.youtube.com/@shaantalk"
+                  to="https://www.youtube.com/@project_santanu"
                   style={{ padding: "1rem" }}
                 >
                   <YouTubeIcon fontSize={"large"} />
